@@ -1,4 +1,4 @@
-
+import './sass/main.scss';
 import menu1 from './templates/menu1.hbs';
 
 import menu from './menu.json';
